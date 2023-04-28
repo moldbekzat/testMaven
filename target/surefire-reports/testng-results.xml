@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-28T14:52:52 ALMT" name="Guru99 Bank" finished-at="2023-04-28T14:54:22 ALMT" duration-ms="89379">
+    <groups>
+    </groups>
+    <test started-at="2023-04-28T14:52:52 ALMT" name="L" finished-at="2023-04-28T14:54:22 ALMT" duration-ms="89379">
+      <class name="Tesla.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tesla.LoginTest@5ffead27]" started-at="2023-04-28T14:52:52 ALMT" name="setUp" finished-at="2023-04-28T14:53:27 ALMT" duration-ms="34333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:0, instance:Tesla.LoginTest@5ffead27]" started-at="2023-04-28T14:53:27 ALMT" name="testLogin" finished-at="2023-04-28T14:54:22 ALMT" duration-ms="54816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tesla.LoginTest@5ffead27]" started-at="2023-04-28T14:54:22 ALMT" name="tearDown" finished-at="2023-04-28T14:54:22 ALMT" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tesla.LoginTest -->
+    </test> <!-- L -->
+  </suite> <!-- Guru99 Bank -->
+</testng-results>
